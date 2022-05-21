@@ -1,0 +1,23 @@
+MobileApp:
+========
+Where is the backend deployed when we attempt to test Create or scan Menu from the mobile app?
+How to validate the backend/DB?
+
+* I see the login ("Mukhtar Abbas")is hardcoded in the mobile App. Not sure where the data is stored.
+* Basic scan from the mobile app is not working {Only camera is ON, no scan is made]
+* "Scan from Gallery" link is not working.
+* No hyperlinks from the "App Drawer" are clickable.
+* Create Menu from the App is not working.
+* "Add menu" is not clearing the previous entries after add item is clicked.
+* Total value displayed during Create Menu is hardcoded to $38.
+* Create Menu has no action if the background and header image is not uploaded. Background and header must be optional and without this also "create menu" should be allowed.
+* No option to view the menu created from the mobile app. (Listing menu).
+* Check box under "category" is not toggled (always checked) and it's hardcoded during Menu create.
+* Settings icon hyperlinks are not working.
+* Folder Creation is not working.
+* No data sync between webapp and mobile app.
+* In the phone number field "text is also allowed"
+=====
+* Add survey button is missing.
+* "No Survey found"
+* unable to submit survey since Submit Survey button has no action.
